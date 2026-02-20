@@ -4,9 +4,9 @@
 
 I'm a Computer Science / Software Engineering student at the University of Georgia with hands-on experience shipping production-grade web apps, deep learning systems, and enterprise data pipelines. I love tackling hard problems — from training attention-based neural networks under extreme noise to automating 45K+ file workflows for real business operations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmeyer3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryanmeyer.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanpaulmeyer@gmail.com)
 
 ---
 
@@ -94,9 +94,9 @@ I'm a Computer Science / Software Engineering student at the University of Georg
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
-- **Portfolio:** [YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL)
-- **Email:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+- **LinkedIn:** [linkedin.com/in/rmeyer3](https://linkedin.com/in/rmeyer3)
+- **Portfolio:** [ryanmeyer.vercel.app](https://ryanmeyer.vercel.app/)
+- **Email:** [ryanpaulmeyer@gmail.com](mailto:ryanpaulmeyer@gmail.com)
 
 ---
 
