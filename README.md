@@ -5,7 +5,7 @@
 I'm a Computer Science / Software Engineering student at the University of Georgia with hands-on experience shipping production-grade web apps, deep learning systems, and enterprise data pipelines. I love tackling hard problems, from training attention-based neural networks under extreme noise to automating 45K+ file workflows for real business operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmeyer3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryanmeyer.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ryanmeyer.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanpaulmeyer@gmail.com)
 
 <!-- -->
@@ -95,7 +95,7 @@ I'm a Computer Science / Software Engineering student at the University of Georg
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/rmeyer3](https://linkedin.com/in/rmeyer3)
-- **Portfolio:** [ryanmeyer.vercel.app](https://ryanmeyer.vercel.app/)
+- **Portfolio:** [www.ryanmeyer.dev](https://www.ryanmeyer.dev/)
 - **Email:** [ryanpaulmeyer@gmail.com](mailto:ryanpaulmeyer@gmail.com)
 
 <!-- -->
